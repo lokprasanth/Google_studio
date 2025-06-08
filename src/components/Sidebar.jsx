@@ -4,7 +4,6 @@ import { Outlet, NavLink, useLocation } from "react-router-dom";
 import SettingsIcon from "@mui/icons-material/Settings";
 import ViewModuleIcon from "@mui/icons-material/ViewModule";
 
-import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import VpnKeyIcon from '@mui/icons-material/VpnKey';
 
 import ChatBubbleOutlineIcon from "@mui/icons-material/ChatBubbleOutline";

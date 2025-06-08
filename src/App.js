@@ -1,7 +1,5 @@
 import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import { NavLink } from "react-router-dom"; 
-
 import Layout from "./components/Layout";
 import Studio from "./pages/Studio";           
 import Homepage from "./pages/Homepage";
